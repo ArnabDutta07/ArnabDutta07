@@ -1,57 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>About Me</title>
-  <style>
-    body {
-      background-color: #0d1117;
-      color: white;
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse; /* Removes any spacing/border */
-    }
-    td {
-      vertical-align: top;
-      padding: 50px;
-    }
-    h2 {
-      margin-bottom: 10px;
-    }
-    img {
-      display: block;
-      margin-left: auto;
-      margin-right: 0;
-    }
-  </style>
-</head>
-<body>
-
-<table>
-  <tr>
-    <td>
-      <h2># About Me:</h2>
-      <p>Hi! I'm AD</p>
-      <p>🛠 I’m currently working on CI/CD Cloud</p>
-      <p>🧠 I’m looking for help with Java</p>
-      <p>🌱 I’m currently learning Full Stack Development</p>
-      <p>💬 Ask me about anything</p>
-      <p>⚡ Fun fact<br>
-      "bug" was inspired by a real bug</p>
-    </td>
-    <td style="text-align: right;">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Y0ZDJkd25lN3VnNng1aHUyNWtwZGh1bzV0aW1zZ28zZ2J0NGU0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="GIF" width="300" />
-    </td>
-  </tr>
-</table>
-
-</body>
-</html>
-
+# 💫 About Me:
+Hi ! I'm AD<br>----------------------------------------<br>🔭 I’m currently working on CI/CD Cloud<br>🤝 I’m looking for help with Java<br>🌱 I’m currently learning Full Stack Development<br>💬 Ask me about anything <br>⚡ Fun fact<br>      "bug" was inspired by a real bug
 
 
 ## 🌐 Socials:
