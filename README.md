@@ -1,3 +1,4 @@
+<img src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmhardik003%2Fmhardik003&psig=AOvVaw275b9H4f3lzwwz5TaSMqny&ust=1745826692692000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCh9bHd94wDFQAAAAAdAAAAABAZ" >
 # 💫 About Me:
 Hi ! I'm AD <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Y0ZDJkd25lN3VnNng1aHUyNWtwZGh1bzV0aW1zZ28zZ2J0NGU0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="GIF" width="200" align="right" /><br>----------------------------------------<br>🔭 I’m currently working on CI/CD Cloud<br>🤝 I’m looking for help with Java<br>🌱 I’m currently learning Full Stack Development<br>💬 Ask me about anything <br>⚡ Fun fact<br>      "bug" was inspired by a real bug
 
