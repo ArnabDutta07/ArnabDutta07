@@ -1,5 +1,5 @@
 # 💫 About Me:
-<table>
+<table cellpadding="10">
 <tr>
 <td>
 
