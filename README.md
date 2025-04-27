@@ -1,5 +1,12 @@
 # 💫 About Me:
 Hi ! I'm AD<br>----------------------------------------<br>🔭 I’m currently working on CI/CD Cloud<br>🤝 I’m looking for help with Java<br>🌱 I’m currently learning Full Stack Development<br>💬 Ask me about anything <br>⚡ Fun fact<br>      "bug" was inspired by a real bug
+    </div>
+    <div align="right">
+      <img src="![image](https://github.com/user-attachments/assets/c2eaa0d7-872c-4c7f-9dcb-832295aa96a8)"
+ alt="GIF" width="250" />
+    </div>
+  </div>
+</div>
 
 
 ## 🌐 Socials:
