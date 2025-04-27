@@ -1,3 +1,7 @@
+<div align="center">
+  <div style="display: flex; justify-content: space-between; align-items: center;">
+    <div align="left">
+        
 # 💫 About Me:
 Hi ! I'm AD<br>----------------------------------------<br>🔭 I’m currently working on CI/CD Cloud<br>🤝 I’m looking for help with Java<br>🌱 I’m currently learning Full Stack Development<br>💬 Ask me about anything <br>⚡ Fun fact<br>      "bug" was inspired by a real bug
     </div>
