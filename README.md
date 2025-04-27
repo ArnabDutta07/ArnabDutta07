@@ -1,16 +1,24 @@
-<div align="center">
-  <div style="display: flex; justify-content: space-between; align-items: center;">
-    <div align="left">
-        
-# 💫 About Me:
-Hi ! I'm AD<br>----------------------------------------<br>🔭 I’m currently working on CI/CD Cloud<br>🤝 I’m looking for help with Java<br>🌱 I’m currently learning Full Stack Development<br>💬 Ask me about anything <br>⚡ Fun fact<br>      "bug" was inspired by a real bug
-    </div>
-    <div align="right">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Y0ZDJkd25lN3VnNng1aHUyNWtwZGh1bzV0aW1zZ28zZ2J0NGU0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"
- alt="GIF" width="250" />
-    </div>
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+
+<h2>About Me:</h2>
+
+Hi! I'm AD  
+-----------------------------------  
+🛠 I’m currently working on CI/CD Cloud  
+🧠 I’m looking for help with Java  
+🌱 I’m currently learning Full Stack Development  
+💬 Ask me about anything  
+⚡ Fun fact  
+"bug" was inspired by a real bug  
+
+    </td>
+    <td>
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Y0ZDJkd25lN3VnNng1aHUyNWtwZGh1bzV0aW1zZ28zZ2J0NGU0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="GIF" width="300" />
+    </td>
+  </tr>
+</table>
 
 
 ## 🌐 Socials:
