@@ -13,12 +13,12 @@ Hi! I'm AD
 ⚡ Fun fact  
     "bug" was inspired by a real bug  
 
-</div>
-    <div align="right">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Y0ZDJkd25lN3VnNng1aHUyNWtwZGh1bzV0aW1zZ28zZ2J0NGU0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="GIF" width="250" />
-    </div>
-  </div>
-</div>
+</td>
+    <td>
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Y0ZDJkd25lN3VnNng1aHUyNWtwZGh1bzV0aW1zZ28zZ2J0NGU0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="GIF" width="300" />
+    </td>
+  </tr>
+</table>
    
 
 
