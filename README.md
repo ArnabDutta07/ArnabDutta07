@@ -2,7 +2,7 @@
   <tr>
     <td>
 
-<h2>About Me:</h2>
+<h2># About Me:</h2>
 
 Hi! I'm AD  
 -----------------------------------  
@@ -11,14 +11,15 @@ Hi! I'm AD
 🌱 I’m currently learning Full Stack Development  
 💬 Ask me about anything  
 ⚡ Fun fact  
-"bug" was inspired by a real bug  
+    "bug" was inspired by a real bug  
 
-    </td>
-    <td>
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Y0ZDJkd25lN3VnNng1aHUyNWtwZGh1bzV0aW1zZ28zZ2J0NGU0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="GIF" width="300" />
-    </td>
-  </tr>
-</table>
+</div>
+    <div align="right">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Y0ZDJkd25lN3VnNng1aHUyNWtwZGh1bzV0aW1zZ28zZ2J0NGU0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="GIF" width="250" />
+    </div>
+  </div>
+</div>
+   
 
 
 ## 🌐 Socials:
