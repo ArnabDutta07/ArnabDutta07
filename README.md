@@ -6,7 +6,7 @@
 Hi ! I'm AD<br>----------------------------------------<br>🔭 I’m currently working on CI/CD Cloud<br>🤝 I’m looking for help with Java<br>🌱 I’m currently learning Full Stack Development<br>💬 Ask me about anything <br>⚡ Fun fact<br>      "bug" was inspired by a real bug
     </div>
     <div align="right">
-      <img src="![image](https://github.com/user-attachments/assets/c2eaa0d7-872c-4c7f-9dcb-832295aa96a8)"
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Y0ZDJkd25lN3VnNng1aHUyNWtwZGh1bzV0aW1zZ28zZ2J0NGU0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"
  alt="GIF" width="250" />
     </div>
   </div>
